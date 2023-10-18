@@ -1,1 +1,0 @@
-chairs = ['Anson','Max','Wesley']
